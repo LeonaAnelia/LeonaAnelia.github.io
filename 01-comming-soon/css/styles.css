@@ -106,12 +106,12 @@ b.light-color{ color: #444; }
 
 .left-section{ float: left; width: 50%; position: relative; }
 
-.left-section .logo{ position: absolute; top: 40px; height: 120px; }
+.left-section .logo{ position: absolute; top: 40px; height: 140px; }
 
 .left-section .logo img{ height: 100%; width: auto; } 
 
 
-.left-section .main-content{ padding: 120px 40px 40px 0; }
+.left-section .main-content{ padding: 140px 40px 40px 0; }
 
 .main-content .title{ margin-bottom: 10px; }
 
