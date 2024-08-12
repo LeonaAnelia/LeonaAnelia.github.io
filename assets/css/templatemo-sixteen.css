@@ -1298,7 +1298,7 @@ footer .inner-content p a {
 	}
 
 	.banner .text-content h5 {
-		font-size: 19px;
+		font-size: 25px;
 	}
 
 	.banner .text-content .get-good {
@@ -1441,3 +1441,16 @@ footer .inner-content p a {
     color: #fff; 
     cursor: pointer; 
 } 
+
+.navbar a{
+	color: #000000;
+	
+}
+
+/* .light_logo { display: block; }
+.dark_logo { display: none; }
+@media (prefers-color-scheme: dark) {
+	.light_logo { display: none; }
+	.dark_logo { display: block; }
+
+} */
