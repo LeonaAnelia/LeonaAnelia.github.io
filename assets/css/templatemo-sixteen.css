@@ -470,7 +470,7 @@ color:#fff;
 .banner {
 	position: relative;
 	text-align: center;
-	padding-top: 80px;
+	padding-top: 90px;
 }
 
 .banner-item-01 {
@@ -512,7 +512,7 @@ color:#fff;
 	transform: translateY(-50%);
 	text-align: center;
 	width: 100%;
-	padding-top:100px;
+	padding-top:150px;
 }
 
 .banner .text-content h4 {
@@ -1001,10 +1001,6 @@ footer .inner-content p a {
 	padding-left: 325px;
 }
 
-.get-good{
-	padding-right: 250px;
-}
-
 .services {
 	background-image: url(../images/theme_big_banner_image.webp);
 	background-position: center center;
@@ -1301,9 +1297,7 @@ footer .inner-content p a {
 		font-size: 25px;
 	}
 
-	.banner .text-content .get-good {
-		padding-left:70px;
-	}
+
 	.banner .text-content .target{
 		padding-left:190px;
 	}
